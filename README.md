@@ -198,7 +198,7 @@ Instead of using the default threshold (0.5), multiple thresholds were evaluated
 ## 📊 Dashboard Preview
 
 ### 🔹 Credit Risk Overview
-![Overview](dashboard/screenshots/overview.png)
+![Overview](dashboard/screenshots/Overview.png)
 
 ### 🔹 ML Risk Analysis
 ![ML Analysis](dashboard/screenshots/ml_analysis.png)
